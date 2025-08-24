@@ -2,7 +2,7 @@ import React from 'react'
 
 const ImgButton = () => {
   return (
-    <div className="max-w-6xl mx-auto p-6">
+    <div className="w-11/12 mx-auto p-6">
       {/* Top Images */}
       <div className="flex justify-between items-center gap-6 mb-10">
         <img src="/b1.png" alt="Banner 1" className="w-1/2 h-[30vh] object-cover rounded-2xl shadow-lg" />
