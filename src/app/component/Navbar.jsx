@@ -32,6 +32,7 @@ const Navbar = () => {
           Product
         </li>
         <li><a>About</a></li>
+        <li><a>Blog</a></li>
       </ul>
     </div>
     <div className="navbar-end">
